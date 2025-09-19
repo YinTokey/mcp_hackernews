@@ -1,0 +1,22 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.YinTokey/mcp_hackernews",
+  "description": "MCP server exposing a simple Hacker News search tool (top stories).",
+  "status": "active",
+  "repository": {
+    "url": "https://github.com/YinTokey/mcp_hackernews",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "packages": [
+    {
+      "registry_type": "pypi",
+      "registry_base_url": "https://pypi.org",
+      "identifier": "mcp-hackernews",
+      "version": "1.0.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}

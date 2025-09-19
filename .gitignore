@@ -10,3 +10,5 @@ __pycache__
 *.pywz
 *.pyzw
 *.pyzwz
+.mcpregistry_github_token
+.mcpregistry_registry_token
