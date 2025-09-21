@@ -12,3 +12,4 @@ __pycache__
 *.pyzwz
 .mcpregistry_github_token
 .mcpregistry_registry_token
+.mcp_hackernews.egg-info
